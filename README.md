@@ -16,7 +16,7 @@
 ## 使用
 
 ```bash
-wget -O install-softether5.sh https://raw.githubusercontent.com/bennyzhou88/OpenvpnOneKey/main/install-softether5.sh
+wget -O install-softether5.sh https://raw.githubusercontent.com/bennyzhou88/SEOK/main/install-softether5.sh
 sudo bash install-softether5.sh
 ```
 
